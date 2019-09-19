@@ -4,6 +4,6 @@
 ### ID3算法
 示例： <br>
 根据一个人的外貌特征判断性别，特征属性有头发长短、体重、身材 <br>
-![数据集](gua.xlsx)： <br><br>
+[数据集](gua.xlsx)： <br><br>
         ![DataSet](DataSet.png) <br>
 
