@@ -1,3 +1,4 @@
-# DataMining
-数据挖掘算法简介及python代码
-interesting
+# DataMining 常用算法
+用python实现数据挖掘常用算法
+***
+## 决策树
