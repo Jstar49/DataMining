@@ -6,7 +6,7 @@
 示例： <br>
 根据一个人的外貌特征判断性别，特征属性有头发长短、体重、身材 <br>
 [数据集](gua.xlsx)： <br><br>
-        ![DataSet](DataSet.png) <br> 
+![DataSet](imgs/DataSet.png) <br> 
 
 信息熵计算： <br> 
 ![ent](imgs/ent.png) 
@@ -25,7 +25,7 @@
 ### C4.5算法
 代码查看：[C4.5](C45.py) <br><br>
 信息增益率计算：<br> 
-![c45](ings/gain1.png) 
+![c45](imgs/gain1.png) 
 
 其中IV(a)的计算方式：<br> 
 ![IV](imgs/IV.png) 
