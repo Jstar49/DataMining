@@ -3,7 +3,7 @@
 ***
 ## [决策树](https://github.com/MyBules/DataMining/tree/master/Decision_Tree) 
 ID3决策树:<br> 
-![ID3](Decision_Tree/imgs/ID3.png) 
+![ID3](Decision_Tree/imgs/ID3.png=200x) 
 <br>
 C4.5决策树：<br> 
 ![C45](Decision_Tree/imgs/C45.png) 
