@@ -18,7 +18,7 @@
 ![gain](imgs/gain.png) 
  
 代码运行结果：<br> 
-![ID3](imgs/ID3.png) 
+<img src="imgs/ID3.png" width="420" hegiht="300" align=center />
  
 决策树绘制代码为：[plotTree.py](plotTree.py) 
 
@@ -31,5 +31,5 @@
 ![IV](imgs/IV.png) 
 
 代码运行结果：<br> 
-![C45](imgs/C45.png) 
+<img src="imgs/C45.png" width="420" hegiht="300" align=center />
 
