@@ -9,4 +9,4 @@ C4.5决策树：<br>
 <img src="Decision_Tree/imgs/C45.png" width="420" hegiht="300" align=center />
 <br><br>
 ## [Apriori 关联规则](https://github.com/MyBules/DataMining/tree/master/Apriori)
-<img src="Apriori/imgs/result.png" width="420" hegiht="300" align=center />
+<img src="Apriori/imgs/result.png" width="620" hegiht="400" align=center />
