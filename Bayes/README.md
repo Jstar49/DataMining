@@ -10,11 +10,11 @@
 需要预测的数据：<br> 
 > {'age': '<=30', 'income': 'Medium', 'student': 'Yes', 'credit_rating': 'Fair'} 
  
-<br>
-计算公式：<br> 
-![bayes](imgs/bayes.png)<br>
+<br> 
+计算公式: <br>  
+<img src="imgs/bayes.png" align=center />
  
-在此问题中只需计算分子的概率的最大值，即可预测结果：
+在此问题中只需计算分子的概率的最大值，即可预测结果： <br>
 ![ba](imgs/bayes2.png)<br>
  
 
