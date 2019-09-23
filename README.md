@@ -10,3 +10,6 @@ C4.5决策树：<br>
 <br><br>
 ## [Apriori 关联规则](https://github.com/MyBules/DataMining/tree/master/Apriori)
 <img src="Apriori/imgs/result.png" width="620" hegiht="400" align=center />
+
+## [Bayes 分类](https://github.com/MyBules/DataMining/tree/master/Bayes)
+<img src="Bayes/imgs/result.png" width="620" hegiht="400" align=center />
