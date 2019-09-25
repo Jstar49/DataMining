@@ -26,9 +26,10 @@
 
 ## [KNN K-近邻](https://github.com/MyBules/DataMining/tree/master/KNN)
 <img src="KNN/imgs/result.png" align=center />
+<img src="KNN/imgs/result2.png" align=center />
 
 ***
 
 ## [K-means K-均值](https://github.com/MyBules/DataMining/tree/master/K-means)
 <img src="K-means/imgs/result.png" align=center />
-<img src="K-means/imgs/result2.png" align=center />
+
