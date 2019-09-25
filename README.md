@@ -2,7 +2,7 @@
 用python实现数据挖掘常用算法 <br>
  
 参考资料： <br>
-教材：《数据挖掘原理与算法(第三版)》 毛国君 段立娟 著 <br>
+教材：**《数据挖掘原理与算法(第三版)》** 毛国君 段立娟 著 <br>
 
 ***
 ## [决策树](https://github.com/MyBules/DataMining/tree/master/Decision_Tree) 
