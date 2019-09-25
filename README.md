@@ -31,4 +31,4 @@
 
 ## [K-means K-均值](https://github.com/MyBules/DataMining/tree/master/K-means)
 <img src="K-means/imgs/result.png" align=center />
-
+<img src="K-means/imgs/result2.png" align=center />
