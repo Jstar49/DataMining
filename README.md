@@ -8,8 +8,19 @@ ID3决策树:<br>
 C4.5决策树：<br> 
 <img src="Decision_Tree/imgs/C45.png" width="420" hegiht="300" align=center />
 <br><br>
+
 ## [Apriori 关联规则](https://github.com/MyBules/DataMining/tree/master/Apriori)
 <img src="Apriori/imgs/result.png" width="620" hegiht="400" align=center />
+***
 
 ## [Bayes 分类](https://github.com/MyBules/DataMining/tree/master/Bayes)
 <img src="Bayes/imgs/result.png" align=center />
+***
+
+## [KNN K-近邻](https://github.com/MyBules/DataMining/tree/master/KNN)
+<img src="KNN/imgs/result.png" align=center />
+***
+
+## [K-means K-均值](https://github.com/MyBules/DataMining/tree/master/K-means)
+<img src="K-means/imgs/result.png" align=center />
+
