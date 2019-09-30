@@ -28,3 +28,20 @@
  
 运行结果：<br>
 ![result](imgs/result.png)<br>
+
+
+## Close 
+
+代码查看：[Close.py](Close.py) <br> 
+
+<br> 
+
+![close](imgs/close.png)<br>
+
+## FP-Tree 
+
+代码查看：[FP-Tree.py](FP-Tree.py) <br> 
+
+<br> 
+
+![fp](imgs/fp-tree.png) <br>

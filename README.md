@@ -15,8 +15,13 @@
 <br><br>
 
 ## [Apriori 关联规则](https://github.com/MyBules/DataMining/tree/master/Apriori)
-<img src="Apriori/imgs/result.png" width="620" hegiht="400" align=center />
+<img src="Apriori/imgs/result.png" width="620" hegiht="400" align=center /><br>
 
+**Close**<br>
+<img src="Apriori/imgs/close.png" width="620" hegiht="400" align=center /><br> 
+<br> 
+**FP-Tree**<br>
+<img src="Apriori/imgs/fp-tree.png" width="620" hegiht="400" align=center /><br> 
 ***
 
 ## [Bayes 分类](https://github.com/MyBules/DataMining/tree/master/Bayes)
@@ -25,7 +30,8 @@
 ***
 
 ## [KNN K-近邻](https://github.com/MyBules/DataMining/tree/master/KNN)
-<img src="KNN/imgs/result.png" align=center />
+<img src="KNN/imgs/result.png" align=center /> 
+
 <img src="KNN/imgs/result2.png" align=center />
 
 ***
