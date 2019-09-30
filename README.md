@@ -14,14 +14,17 @@
 <img src="Decision_Tree/imgs/C45.png" width="420" hegiht="300" align=center />
 <br><br>
 
+***
+
 ## [Apriori 关联规则](https://github.com/MyBules/DataMining/tree/master/Apriori)
 <img src="Apriori/imgs/result.png" width="620" hegiht="400" align=center /><br>
 
-**Close**<br>
+**Close:**<br>
 <img src="Apriori/imgs/close.png" width="620" hegiht="400" align=center /><br> 
 <br> 
-**FP-Tree**<br>
+**FP-Tree:**<br>
 <img src="Apriori/imgs/fp-tree.png" width="620" hegiht="400" align=center /><br> 
+
 ***
 
 ## [Bayes 分类](https://github.com/MyBules/DataMining/tree/master/Bayes)
