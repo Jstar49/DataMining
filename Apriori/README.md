@@ -37,9 +37,9 @@
 
 <br> 
 
-***
-
 ![close](imgs/close.png)<br>
+
+***
 
 ## FP-Tree 
 
