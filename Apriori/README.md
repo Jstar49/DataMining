@@ -29,12 +29,15 @@
 运行结果：<br>
 ![result](imgs/result.png)<br>
 
+***
 
 ## Close 
 
 代码查看：[Close.py](Close.py) <br> 
 
 <br> 
+
+***
 
 ![close](imgs/close.png)<br>
 
