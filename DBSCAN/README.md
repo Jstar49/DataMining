@@ -14,7 +14,7 @@ Repeat: <br>
 &emsp;&emsp;If 抽出的对象是核心点 <br>
 &emsp;&emsp;&emsp;&emsp;找出所有从该点密度可达的对象，形成一个簇; <br>
 &emsp;&emsp;Else 抽出的点是边缘点（非核心对象）<br>
-&emsp;&emsp;&emsp;&emsp;跳出循环，寻找下一点;
+&emsp;&emsp;&emsp;&emsp;跳出循环，寻找下一点;  <br>
 Until 所有点都被访问过 <br>
  
 <br> 
