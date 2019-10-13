@@ -44,6 +44,12 @@
 ## [K-means K-均值](https://github.com/MyBules/DataMining/tree/master/K-means)
 <img src="K-means/imgs/result.png" align=center />
 
+***
+
 ## [DBSCAN](https://github.com/MyBules/DataMining/tree/master/DBSCAN)
 <img src="DBSCAN/imgs/result.png" align=center />
 
+***
+
+## [AGNES](https://github.com/MyBules/DataMining/tree/master/AGNES)
+<img src="AGNES/imgs/result.png" align=center />
