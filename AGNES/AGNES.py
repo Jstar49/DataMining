@@ -28,7 +28,7 @@ def Cu_len(k_set, p_set,data):
     return min_len
 
 def Set_cu(cu_set,data):
-    '''寻找'''
+    '''寻找两个最近的簇，并合并'''
     cuu = cu_set[:]
     min_len = Cu_len(cu_set[0],cu_set[1],data)
     cu_list = [cu_set[0],cu_set[1]]
