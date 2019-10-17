@@ -57,4 +57,4 @@
 ***
 
 ## [SVM](https://github.com/MyBules/DataMining/tree/master/SVM)
-<img src="SVM/imgs/result.png" align=center />
+<img src="SVM/imgs/result.png" width="620" hegiht="400" align=center />
