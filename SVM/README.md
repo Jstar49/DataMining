@@ -21,8 +21,8 @@ SMO算法：<br>
 &emsp;&emsp;![kkt](imgs/KKT.png) <br>
 &emsp;&emsp;对于&alpha;2_new,则必须满足一下条件：<br>
 &emsp;&emsp;![a2](imgs/alpha2.png) <br>
-&emsp;&emsp;未经裁剪的&alpha;2_new的解为：
-&emsp;&emsp;&alpha;2_unc = &alpha;2_old+ y2*(E1-E2) * &eta;<br>
+&emsp;&emsp;未经裁剪的&alpha;2_new的解为：<br>
+&emsp;&emsp;&alpha;2_unc = &alpha;2_old+ y2*(E1-E2) / &eta;<br>
 &emsp;&emsp;&eta;=K11+K22-2*K12 <br>
 &emsp;&emsp;裁剪后的&alpha;2的解为：<br><br>
 &emsp;&emsp;![al2](imgs/al2.png)<br>
@@ -34,4 +34,5 @@ SMO算法：<br>
 &emsp;&emsp;同时，如果有 0<&alpha;1_new<C, 则b_new = b1_new, 如果0<&alpha;2_new<C, 则b_new = b2_new, 否则 b_new = (b1_new + b2_new)/2.0 <br>
 
 运行结果：<br>
+PS：红色坐标为支持向量<br>
 ![result](imgs/result.png)
