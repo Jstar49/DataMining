@@ -31,7 +31,17 @@ SMO算法：<br>
 &emsp;&emsp;然后更新b：<br>
 &emsp;&emsp;&emsp;&emsp;b1_new = b_old - E1 - y1\*K11\*(&alpha;1_new - &alpha;1_old) - y2\*K21\*(&alpha;2_new - &alpha;2_old) <br>
 &emsp;&emsp;&emsp;&emsp;b2_new = b_old - E2 - y1\*K12\*(&alpha;1_new - &alpha;1_old) - y2\*K22\*(&alpha;2_new - &alpha;2_old) <br>
-&emsp;&emsp;同时，如果有 0<&alpha;1_new<C, 则b_new = b1_new, 如果0<&alpha;2_new<C, 则b_new = b2_new, 否则 b_new = (b1_new + b2_new)/2.0 <br>
+&emsp;&emsp;同时，如果有 0<&alpha;1_new<C, 则b_new = b1_new, <br>
+&emsp;&emsp;如果0<&alpha;2_new<C, 则b_new = b2_new, <br>
+&emsp;&emsp;否则 b_new = (b1_new + b2_new)/2.0 <br>
+<br><br>
+推荐文章：<br>
+[https://www.cnblogs.com/JustForCS/p/5283489.html](https://www.cnblogs.com/JustForCS/p/5283489.html) <br>
+[https://blog.csdn.net/v_JULY_v/article/details/7624837](https://blog.csdn.net/v_JULY_v/article/details/7624837) <br>
+<br>
+
+
+
 运行结果：<br>
 PS：红色坐标为支持向量<br>
 ![result](imgs/result.png)
