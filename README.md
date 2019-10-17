@@ -53,3 +53,8 @@
 
 ## [AGNES](https://github.com/MyBules/DataMining/tree/master/AGNES)
 <img src="AGNES/imgs/result.png" align=center />
+
+***
+
+## [SVM](https://github.com/MyBules/DataMining/tree/master/SVM)
+<img src="SVM/imgs/result.png" align=center />
