@@ -27,7 +27,7 @@ SMO算法：<br>
 &emsp;&emsp;裁剪后的&alpha;2的解为：<br><br>
 &emsp;&emsp;![al2](imgs/al2.png)<br>
 &emsp;&emsp;更新第一个变量： <br>
-&emsp;&emsp;&emsp;&emsp;&alpha;1_new = &alpha;1_old + y1*y2*(&alpha;2_old-&alpha;2_new)<br>
+&emsp;&emsp;&emsp;&emsp;&alpha;1_new = &alpha;1_old + y1\*y2\*(&alpha;2_old-&alpha;2_new)<br>
 &emsp;&emsp;然后更新b：<br>
 &emsp;&emsp;&emsp;&emsp;b1_new = b_old - E1 - y1*K11*(&alpha;1_new - &alpha;1_old) - y2*K21*(&alpha;2_new - &alpha;2_old) <br>
 &emsp;&emsp;&emsp;&emsp;b2_new = b_old - E2 - y1*K12*(&alpha;1_new - &alpha;1_old) - y2*K22*(&alpha;2_new - &alpha;2_old) <br>
