@@ -19,11 +19,11 @@ AdaBoost从训练数据集学习一系列弱分类器或基本分类器，然后
 &emsp;&emsp;(b)计算G_m(x)在训练数据集上的分类误差率：<br>
 &emsp;&emsp;&emsp;&emsp;&varrho;_m = P(G_m(xi)!=yi) = sum_{i=1}^N( &omega;_mi \* I(G_m(xi)!=yi) ) <br>
 &emsp;&emsp;(c)计算G_m(x) 的系数:<br>
-&emsp;&emsp;&emsp;&emsp;&alpha; = 1/2 \* log ((1 - &varrho;_m)/&varrho;_m) <br>
+&emsp;&emsp;&emsp;&emsp;&alpha; = 1/2 \* log( (1 - &varrho;_m)/&varrho;_m ) <br>
 &emsp;&emsp;(d)更新训练集的权值分布：<br>
-&emsp;&emsp;&emsp;&emsp; &omega;_i = (&omega;_i / Z_m) \* exp(-&alpha; \* yi \* G_m(xi)) , i = 1,2,...,N <br>
+&emsp;&emsp;&emsp;&emsp; &omega;_i = (&omega;_i / Z_m) \* exp(-&alpha;_m \* yi \* G_m(xi)) , i = 1,2,...,N <br>
 &emsp;&emsp;Z_m是规范化因子： <br>
-&emsp;&emsp;&emsp;&emsp;Z_m = sum_{m=1}^N( &omega;_mi \* exp(-&alpha; \* yi \* G_m(xi)) ) <br>
+&emsp;&emsp;&emsp;&emsp;Z_m = sum_{i=1}^N( &omega;_mi \* exp(-&alpha; \* yi \* G_m(xi)) ) <br>
 (3)构建基本分类器的线性组合：<br>
 &emsp;&emsp;f(x) = sum_{m=1}^M( &alpha;_m \* G_m(x)) <br>
 <br>
