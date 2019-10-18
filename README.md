@@ -58,3 +58,8 @@
 
 ## [SVM](https://github.com/MyBules/DataMining/tree/master/SVM)
 <img src="SVM/imgs/result.png" width="620" hegiht="400" align=center />
+
+***
+
+## [AdaBoost](https://github.com/MyBules/DataMining/tree/master/AdaBoost)
+<img src="AdaBoost/imgs/result.png" width="620" hegiht="400" align=center />
