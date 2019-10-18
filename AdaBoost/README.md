@@ -23,7 +23,7 @@ AdaBoost从训练数据集学习一系列弱分类器或基本分类器，然后
 &emsp;&emsp;(d)更新训练集的权值分布：<br>
 &emsp;&emsp;&emsp;&emsp; &omega;_i = (&omega;_i / Z_m) \* exp(-&alpha;_m \* yi \* G_m(xi)) , i = 1,2,...,N <br>
 &emsp;&emsp;Z_m是规范化因子： <br>
-&emsp;&emsp;&emsp;&emsp;Z_m = sum_{i=1}^N( &omega;_mi \* exp(-&alpha; \* yi \* G_m(xi)) ) <br>
+&emsp;&emsp;&emsp;&emsp;Z_m = sum_{i=1}^N( &omega;_mi \* exp(-&alpha;_m \* yi \* G_m(xi)) ) <br>
 (3)构建基本分类器的线性组合：<br>
 &emsp;&emsp;f(x) = sum_{m=1}^M( &alpha;_m \* G_m(x)) <br>
 <br>
