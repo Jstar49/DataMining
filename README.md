@@ -15,6 +15,8 @@
 **C4.5决策树：**<br> 
 <img src="Decision_Tree/imgs/C45.png" width="420" hegiht="300" align=center />
 <br><br>
+**CART**:<br>
+<img src="Decision_Tree/imgs/cartre.png" width="420" hegiht="300" align=center />
 
 ***
 
