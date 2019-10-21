@@ -42,7 +42,7 @@
 数据集 ： [data.xlsx](data.xlsx) <br>
 ![cartdata](imgs/cartimg.png)<br>
 
-先对于ID3和C4。5算法的不同，CART是根据基尼指数来决定树的最佳节点的，基尼指数计算方式：<br>
+先对于ID3和C4.5算法的不同，CART是根据基尼指数来决定树的最佳节点的，基尼指数计算方式：<br>
 对于二分类问题，若样本点属于第一类的概率是p，则概率分布的基尼指数为：<br>
 &emsp;&emsp;&emsp;&emsp;Gini(p) = 2 \* p \* (1 - p) <br>
 如果样本集合D根据特征A是否取某一可能值a被分割成D1和D2两部分，即：<br>
