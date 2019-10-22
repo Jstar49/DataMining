@@ -65,3 +65,8 @@
 
 ## [AdaBoost](https://github.com/MyBules/DataMining/tree/master/AdaBoost)
 <img src="AdaBoost/imgs/result.png" width="620" hegiht="400" align=center />
+
+***
+
+## [EM](https://github.com/MyBules/DataMining/tree/master/EM)
+<img src="EM/imgs/result.png" align=center />
