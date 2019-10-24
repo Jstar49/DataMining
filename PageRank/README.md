@@ -23,6 +23,10 @@ e是所有分量都为1的列向量<br>
 &emsp;&emsp;b.迭代次数超过了自定义的迭代次数(如迭代10000次)<br>
 <br>
 
+**参考文献：**
+[PageRank算法原理介绍](https://blog.csdn.net/u012421852/article/details/80290411)<br>
+[深入浅出PageRank算法](https://segmentfault.com/a/1190000000711128#articleHeader0)<br>
+
 ***
 运行结果：<br>
 ![result](imgs/result.png)
