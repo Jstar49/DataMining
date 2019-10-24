@@ -70,3 +70,8 @@
 
 ## [EM](https://github.com/MyBules/DataMining/tree/master/EM)
 <img src="EM/imgs/result.png" align=center />
+
+***
+
+## [PageRank](https://github.com/MyBules/DataMining/tree/master/PageRank)
+<img src="PageRank/imgs/result.png" align=center />
