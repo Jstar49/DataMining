@@ -52,10 +52,12 @@ if __name__ == '__main__':
     # 迭代停止误差区间
     toler = 1
     # 开始迭代
+    k = 1
     while toler > 0.00001:
         p2 = np.dot(A, p1)
         toler = p2 - p1
         toler = max(map(abs, toler))
         p1 = p2
-
-    print('最终的PR值为：',p1)
+        print('第 ',k ,' 次迭代结果：', p1)
+        k += 1
+    print('迭代结束!\n最终的PR值为：',p1)
