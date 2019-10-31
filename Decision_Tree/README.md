@@ -38,7 +38,7 @@
 ***
 
 ### CART
-代码查看：[CART.py](CART.PY) <br>
+代码查看：[CART.py](CART.py) <br>
 数据集 ： [data.xlsx](data.xlsx) <br>
 ![cartdata](imgs/cartimg.png)<br>
 
