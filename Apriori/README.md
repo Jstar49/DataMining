@@ -33,7 +33,7 @@
 
 ## Close 
 
-代码查看：[Close.py](Close.py) <br> 
+代码查看：[Close.py](close.py) <br> 
 
 <br> 
 
@@ -43,7 +43,7 @@
 
 ## FP-Tree 
 
-代码查看：[FP-Tree.py](FP-Tree.py) <br> 
+代码查看：[FP-Tree.py](fp-tree.py) <br> 
 
 <br> 
 
