@@ -43,7 +43,7 @@
 
 ## FP-Tree 
 
-代码查看：[FP-Tree.py](fp-tree.py) <br> 
+代码查看：[FP-Tree.py](fp_tree.py) <br> 
 
 <br> 
 
