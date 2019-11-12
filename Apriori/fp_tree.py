@@ -186,14 +186,3 @@ if __name__ == '__main__':
   print("\n最终频繁模式：")
   print(supset)
   #print(root.links)
-
-def pp(ch, pk):
-  t = []
-  for i in range(len(pk)+1):
-    k = [ch]
-    for
-
-ch = 'a'
-pk = ['b','c','d']
-pp(ch, pk)
-
