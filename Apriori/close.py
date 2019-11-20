@@ -155,7 +155,3 @@ if __name__ == '__main__':
         if set(ji) not in val:
           val.append(set(ji))
 
-p = {[1,3],[2,3],[1,3]}
-
-print(p)
-
